@@ -6,3 +6,4 @@ The front-end uses easyui.The server-end uses java SSM framework.
 test002
 test004
 test005
+test006
